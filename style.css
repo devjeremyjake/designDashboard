@@ -365,6 +365,7 @@ body {
 	/* Screen size (600px)styles */
 	.container {
 		height: auto;
+		width: 100vw;
 	}
 
 	.align-side {
