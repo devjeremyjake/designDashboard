@@ -68,7 +68,6 @@ body {
 .container__title--head {
 	font-weight: 400;
 	color: var(--colors-1);
-	padding-left: 10px;
 	transition: background 0.5s linear;
 	padding-bottom: 5px;
 }
