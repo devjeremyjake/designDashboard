@@ -382,6 +382,10 @@ body {
 		flex-wrap: wrap;
 	}
 
+	.container__cover {
+		margin-top: -30px;
+	}
+
 	.container__title {
 		padding-bottom: 25px;
 		border-bottom: 1px solid #eee;
